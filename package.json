@@ -1,0 +1,19 @@
+{
+  "name": "festivalizer",
+  "version": "1.0.0",
+  "description": "Festival DJ Decision Maker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "festival",
+    "music",
+    "rave",
+    "dj",
+    "set"
+  ],
+  "author": "Josh Leong",
+  "license": "MIT"
+}
